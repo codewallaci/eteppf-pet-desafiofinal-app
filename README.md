@@ -3,7 +3,7 @@
 
 <p align="center">
   <a>
-    <img src="https://github.com/codewallaci/eteppf-pet-desafiofinal-app/blob/master/imgs/logo.png" alt="logo" width="80" height="80">
+    <img src="https://github.com/codewallaci/eteppf-pet-desafiofinal-app/blob/master/imgs/logo.png" alt="logo" width="232" height="144">
   </a>
 </p>
 
