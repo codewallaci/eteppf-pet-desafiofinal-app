@@ -3,7 +3,7 @@
 
 <p align="center">
   <a>
-    <img src="link da logo" alt="logo" width="80" height="80">
+    <img src="https://github.com/codewallaci/eteppf-pet-desafiofinal-app/blob/master/imgs/logo.png" alt="logo" width="80" height="80">
   </a>
 </p>
 
@@ -17,11 +17,11 @@
 
 ## Documentação
 
-       App desenvolvido usando React Native + Expo + JavaScript
+App desenvolvido usando React Native + Expo + JavaScript
 Desenvolvido para o desafio final do Projeto de Extensão Tecnológica 
-       da Escola Técnica Estadual Professor Paulo Freire.
+da Escola Técnica Estadual Professor Paulo Freire.
 
-[Instagram da escola](https://instagram.com/eteprofpaulofreire):
+[Instagram da escola](https://instagram.com/eteprofpaulofreire)
 
 
 ## Contato
